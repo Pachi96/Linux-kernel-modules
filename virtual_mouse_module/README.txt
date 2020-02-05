@@ -8,5 +8,5 @@ Depending on which script you run, you will be able to control
 
 the mouse cursor with a console application that asks you in which direction
 to move and how many pixels (gpiomaus_test.py). Or to control the cursor
-with the GPIO pins of a Raspberry Pi (if you are running the module in such
-device), or to control the cursor with your keyboard.
+with the GPIO pins of a Raspberry Pi (gpiomaus.py) (if you are running the module in such
+device), or to control the cursor with your keyboard (key2mouse.py).
